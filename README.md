@@ -9,4 +9,4 @@
 https://react-dev-cc2579.netlify.app/
 
 ### `Screen`
-![](screen.gif)
+![](Screen.gif)
